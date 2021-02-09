@@ -1,0 +1,21 @@
+.gameTable{
+    width: 650px;
+    height: 550px;
+    background-color: lightskyblue;
+    border-style: solid;
+}
+.gameSquare{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 5px;
+    cursor: "pointer";
+    border-style: solid;
+    text-align: center;
+    
+}
+.gameBall{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
